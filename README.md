@@ -17,7 +17,7 @@ A opção atualizar vai pegar ultima versao do repositorio usado para instalar
 
 ## MEU REPOSITORIO TEM ALGUMAS MUDANÇAS AO ORIGINAL VERIQUE O README
 
-https://github.com/cleitonme/izing.open.io
+https://github.com/Marcius-Petrucelli/izing.open.io
 
 
 ## RODAR OS COMANDOS ABAIXO ##
@@ -38,7 +38,7 @@ Depois reniciar seguir com a instalacao
 cd /root
 ```
 ```bash
-git clone https://github.com/cleitonme/izing.local.git izinginstalador
+git clone https://github.com/Marcius-Petrucelli/izing.local.git izinginstalador
 ```
 Editar dados com seus dados, com nano para salvar aperta Ctrl + x
 ```bash
